@@ -1,1 +1,1 @@
-for bilkent students. hope it's helpful.
+for bilkent students' ee102 labs. hope it's helpful.
