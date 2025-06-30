@@ -12,4 +12,4 @@ repo for created for EEE102 (Introduction to Digital Circuit Design). includes l
  - [Lab 5](https://github.com/sushismurf/VHDL/tree/main/ee102/labs/Lab%205)
  - [Lab 6](https://github.com/sushismurf/VHDL/tree/main/ee102/labs/Lab%206)
  - [Lab 7](https://github.com/sushismurf/VHDL/tree/main/ee102/labs/Lab%207)
- - [Term Project - Word Clock](https://github.com/sushismurf/VHDL/tree/main/ee102/labs/Lab%201)
+ - [Term Project - Word Clock](https://github.com/sushismurf/VHDL/tree/main/ee102/labs/Project)
