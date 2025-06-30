@@ -1,4 +1,4 @@
-# Bilkent EEE 102
+## Bilkent EEE 102
 
 repo for created for EEE102 (Introduction to Digital Circuit Design). includes labs, exams, and slides.
 
