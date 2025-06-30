@@ -1,4 +1,4 @@
-some essential VHDL modules written for Basys3 to make life less miserable for fellow Bilkent students.
+some essential VHDL modules written for Basys3.
 
 feel free to use all modules as needed.
 
