@@ -1,5 +1,4 @@
-
-# Bilkent EEE 102 Introduction to Digital Circuit Design Labs 1-7 & Term Project 2021-2022
+# Bilkent EEE 102
 
 repo for created for EEE102 (Introduction to Digital Circuit Design). includes labs, exams, and slides.
 
