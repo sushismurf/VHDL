@@ -1,6 +1,6 @@
 ## Bilkent EEE 102
 
-repo for created for EEE102 (Introduction to Digital Circuit Design). includes labs, exams, books, slides, notes, and fritzing!
+repo for EEE102 (Introduction to Digital Circuit Design). includes labs, exams, books, slides, notes, and fritzing!
 
 
 ## Labs 
