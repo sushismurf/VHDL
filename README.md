@@ -1,4 +1,4 @@
-some essential VHDL modules written for Basys3.
+some essential VHDL modules written for Basys3, makes life a little less painful.
 
 feel free to use all modules as needed.
 
